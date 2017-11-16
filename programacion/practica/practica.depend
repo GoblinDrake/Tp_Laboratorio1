@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1503005264 source:c:\users\santi\desktop\practica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<math.h>
+
+1503064588 source:f:\practica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<math.h>
+

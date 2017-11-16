@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1504367697 source:c:\users\alumno\desktop\calcularpromedio\main.c
+	<stdio.h>
+	<stdlib.h>
+
